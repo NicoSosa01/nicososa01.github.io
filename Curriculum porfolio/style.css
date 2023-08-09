@@ -1,0 +1,26 @@
+body{
+    background-image: url(depositphotos_202917456-stock-photo-molecular-structure-background-abstract-background.jpg);
+}
+.primerparrafo{
+    font-size: 20px;
+}
+
+#xp{
+    text-decoration: underline;
+}
+#hc{
+    text-decoration: underline;
+}
+#e{
+    text-decoration: underline;
+}
+#ps{
+    text-decoration: underline;
+}
+.tambien{
+  font-size: 20px;
+  text-decoration: underline;  
+}
+.pc{
+    background-color: chocolate;
+}
